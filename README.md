@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://pw.is/" target="_blank"><img src="https://github.com/p-w/p-w/raw/main/intro.gif" alt="👋 Hi there! I'm (p(eter|-w)|https://pw.is)" title="👋 Hi there! I'm (p(eter|-w)|https://pw.is)"/></a>
+</div>
