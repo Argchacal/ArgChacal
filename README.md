@@ -1,5 +1,4 @@
-## Hola, soy Marcelo Eduardo Ayala 👋
-
+## 
 <!--
 **Argchacal/ArgChacal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://pw.is/" target="_blank"><img src="https://github.com/p-w/p-w/raw/main/intro.gif" alt="👋 Hi there! I'm (p(eter|-w)|https://pw.is)" title="👋 Hi there! I'm (p(eter|-w)|https://pw.is)"/></a>
+  <a href="https://pw.is/" target="_blank"><img src="https://github.com/p-w/p-w/raw/main/intro.gif" alt="👋 Hi there! I'm (p(eter|-w)|https://pw.is)" title="👋 Hola, soy Marcelo Eduardo Ayala 👋
+! I'm (p(eter|-w)|https://pw.is)"/></a>
 </div>
