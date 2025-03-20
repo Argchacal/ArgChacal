@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://pw.is/" target="_blank"><img src="https://github.com/p-w/p-w/raw/main/intro.gif" alt="👋 Hola, soy Marcelo Eduardo Ayala" title="👋 Hola, soy Marcelo Eduardo Ayala 👋
+  <a href="https://pw.is/" target="_blank"><img src="Hola, soy Marcelo Eduardo Ayala" alt="👋 Hola, soy Marcelo Eduardo Ayala" title="👋 Hola, soy Marcelo Eduardo Ayala 👋
 ! I'm (p(eter|-w)|https://pw.is)"/></a>
 </div>
